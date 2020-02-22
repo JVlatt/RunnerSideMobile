@@ -24,6 +24,7 @@ MonoBehaviour:
   - pbShadowCastingMode
   - pbDefaultSelectionMode
   - pbHandleAlignment
+  - pb_GIWorkflowMode
   m_Float_keys:
   - pbEditorScroll.x
   - pbEditorScroll.y
@@ -33,7 +34,7 @@ MonoBehaviour:
   m_Material_keys:
   - pbDefaultMaterial
   m_Bool_values: 01000000
-  m_Int_values: 010000000000000002000000020000000200000000000000
+  m_Int_values: 00000000000000000200000002000000020000000200000001000000
   m_Float_values:
   - 0
   - 0
